@@ -15,7 +15,3 @@
 [submodule "submodules/freebsd"]
     path = submodules/freebsd
     url = https://github.com/freebsd/freebsd-src.git
-
-[submodule "submodules/fuchsia"]
-    path = submodules/fuchsia
-    url = https://fuchsia.googlesource.com/fuchsia
