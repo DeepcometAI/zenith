@@ -1,0 +1,21 @@
+# .gitmodules - Zenith kernel submodules
+
+[submodule "submodules/mono-zenith"]
+    path = submodules/mono-zenith
+    url = https://github.com/DeepcometAI/mono-zenith.git
+
+[submodule "submodules/sel4"]
+    path = submodules/sel4
+    url = https://github.com/seL4/seL4.git
+
+[submodule "submodules/zenith-xnu"]
+    path = submodules/zenith-xnu
+    url = https://github.com/DeepcometAI/zenith-xnu.git
+
+[submodule "submodules/freebsd"]
+    path = submodules/freebsd
+    url = https://github.com/freebsd/freebsd-src.git
+
+[submodule "submodules/fuchsia"]
+    path = submodules/fuchsia
+    url = https://fuchsia.googlesource.com/fuchsia
